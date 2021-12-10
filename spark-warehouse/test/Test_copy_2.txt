@@ -1,0 +1,3 @@
+40	Anthony
+30	Bob
+58	Charlie
